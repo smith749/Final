@@ -1,0 +1,50 @@
+ h1{
+      font-family: Fascinate;
+      color: white;
+      font-size: 75px;
+      text-align: center;
+      background-color: purple;
+   }
+
+   ol{
+    font-family: Silkscreen;
+    font-size: 40px;
+   }
+
+   p{
+    font-family: Silkscreen;
+    color: #6997FF;
+   }
+
+   img {
+      width: 400; 
+      height:400; 
+   }
+   body{
+     background-color: #F2D499;
+}
+footer[role="contentinfo"] {
+      color: #ffffff;
+      background-color: #3b3b3b;
+    }
+
+    footer h2 {
+      color: #ffffff;
+    }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card-holder{
+  width: 400vw;
+  height: 400vh;
+}
+
+.card{
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+}
